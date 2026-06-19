@@ -56,15 +56,3 @@ python app.py
 2. Clique em **"Ver Clima"** para consultar as informações.
 3. Os dados de temperatura, umidade, vento e descrição serão exibidos na tela.
 4. Use o botão **"Limpar"** para resetar os campos e fazer uma nova busca.
-
-## 📸 Preview
-
-> Adicione aqui um screenshot da aplicação em funcionamento.
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request* com melhorias, correções de bugs ou novas funcionalidades.
-
-## 📄 Licença
-
-Este projeto está disponível sob a licença MIT. Sinta-se livre para utilizá-lo e modificá-lo.
